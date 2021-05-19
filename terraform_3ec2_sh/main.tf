@@ -2,7 +2,7 @@
 # Check credentials on vocareum account details
 provider "aws" {
   region = "us-east-1"
-  access_key="ASIAWCAKYGCCJGCNBL4S"
-  secret_key="+KQCwAf/sr4ShVWQ/P7NRMJA38CFS9KUATAtXJBr"
-  token="IQoJb3JpZ2luX2VjEOL//////////wEaCXVzLXdlc3QtMiJGMEQCIHL5URSL/fg8WfbNAoOqOr8ukKfH/aX/kOUkox0B69lsAiAOl6xiv1XydTSBIiNx00OoPxaZlqHl0UEn5YisUwWVjiqsAgh7EAAaDDQxNjYzNDM4NDUxNiIM5KPGxXgqHeVOKOS8KokC29UD4CHd/n1oGL0KvxRDFHp01WwMuV73pMzL2zs/z0roR9mHyu1YwJPy94UswPz7zUqKqnjjDvgRAmlgHIHnITY0X2HzJkd+QYpfiV95bwgpmOpr1LZzu2uoKs5RKBkFSinUzEMi5FcEQZ1piBt4VzW+vRwlQ6SWOBenubv4XQwv5XWPaXDsN3NoBbL5YOrpmAo+iegvdv515lkCzb/dypJeqzpvkOkRghgST+AlYXzM+C5sDEpHkqGRwYMrhQu+hZ57rVej0qHey6l9iSsGfxTYYLUD2jS1oK2ynx22hsOXdjafc0OQ5QJLA4LAdxQG7s1lLeDiFLbBxAwbK1g7Jgsqntzbx2GKyTDUpZWFBjqeAZy8AcXoPcFzGF82UPrZcVMZu/CuOeb2V+6lnHqOyyHom/dstZHW9I8XV38t72rj5aBsAd+8Dv5B8GbuWS/qs3E/09DVuwYpOgirCYUlqKjrdX4bpAgYDg1vzIGY87kXOHMRV0CWdzUBGBYulw2yPDNHSgbll1fs3w5CcXvS3vXainfHUKfwpIQcv8Hpmj9doPzoAJEzByfKLA60XCJ7"
+  access_key=""
+  secret_key=""
+  token=""
 }
